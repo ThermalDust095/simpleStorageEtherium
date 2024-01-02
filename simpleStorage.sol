@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >= 0.6.0;
+pragma solidity 0.8.7;
 
 pragma experimental ABIEncoderV2; // Enable ABIEncoderV2 for returning dynamic arrays
 

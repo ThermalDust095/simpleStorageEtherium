@@ -1,0 +1,11 @@
+{
+  "name": "simpleStorage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ThermalDust095/simpleStorageEtherium.git",
+  "author": "ThermalDust095 <79693586+ThermalDust095@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "0.8.7-fixed"
+  }
+}
